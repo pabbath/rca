@@ -43,7 +43,7 @@ A Jira issue is created by customer (AESEDI-53447)
 2) Add monitoring scripts when a server goes down.
 
 ## Timeline
-2020-04-11 (*all times UTC*)
+2020-04-20 (*all times UTC*)
 
 | Time  | Description |
 | ----- | ----------- |
